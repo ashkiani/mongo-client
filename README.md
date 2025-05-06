@@ -11,7 +11,6 @@ Provides a simple and consistent way to connect, retrieve, and close a shared Mo
 
 ## 📦 Installation
 
-```bash
 npm install @ashkiani/mongo-client
 ````
 
